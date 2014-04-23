@@ -11,8 +11,8 @@ What I Did:
 - Login to your account at http://www.apportable.com/account
 - I used the apportablse SDK version `developer preview` and would recommend you use this one or a newer version if available.
 
-	![image](https://github.com/danmorton/apportable_test/blob/master/img/settings.png)
-
+	![image](https://raw.githubusercontent.com/danmorton/apportable_test/master/img/settings.png)
+ 
 - Update apportable using command `apportable update` (this takes awhile..)
 - Navigate to the root of your project, where the .xcodeproj is located
 - run `apportable load`
